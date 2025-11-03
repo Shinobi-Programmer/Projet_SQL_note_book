@@ -1,0 +1,201 @@
+id_client,nom,ville,date_inscription
+1,Lucy Sauvage,Ferrand,2022-06-06
+2,Maggie Faivre,Julien-sur-Mer,2024-06-25
+3,Aurélie Lemonnier-Perrot,Maury,2022-11-08
+4,Isaac Pascal,Lebon-sur-Barthelemy,2024-12-20
+5,William Poulain de la Lenoir,Maurice-les-Bains,2021-08-13
+6,Emmanuel Roux,Vasseur,2022-11-16
+7,Édouard Lévêque,Bourdon-sur-Lucas,2023-05-05
+8,Bertrand Meunier,Sainte Alix-la-Forêt,2023-07-10
+9,Bertrand Bonneau,Maillard,2023-11-04
+10,Laetitia Bazin,Jacques,2021-08-25
+11,Monique Collin,Morin,2021-02-06
+12,Laurent Blanchard,Dupré,2025-09-19
+13,Gérard Colas,Boulay,2022-11-02
+14,Audrey Renaud,Weiss,2022-05-09
+15,Margot-Christelle Blanchet,Le Gallboeuf,2024-05-16
+16,Noël Bouvier,Maillot,2023-11-13
+17,Margaret Vaillant,Lopesnec,2024-03-08
+18,Théodore Gros,Alves-sur-Humbert,2025-04-01
+19,Alfred Aubry du Chauvet,Chevallier,2022-09-29
+20,Nathalie Masson-Voisin,Saint Danielle,2022-05-30
+21,Suzanne Blondel,Charles,2023-11-22
+22,Charlotte Caron,Jourdan,2022-05-17
+23,Bernadette Bourdon-Valette,Renardnec,2021-11-03
+24,Michelle Marchal,Techer,2022-11-30
+25,Adrienne Merle,Chauvetdan,2024-07-21
+26,Adrien Bousquet,Saint Alfred,2023-02-25
+27,Denise Gillet,Hebert-sur-Mer,2023-02-01
+28,Denis Gautier,Alves,2024-07-20
+29,Aurore Salmon,Perret,2021-01-13
+30,Julien Chevallier,Sainte Sébastien-les-Bains,2023-10-30
+31,Laurence Fabre,Leleu,2025-09-20
+32,David Carpentier,Fouquet-les-Bains,2024-09-12
+33,Nathalie de Langlois,BarreVille,2025-08-22
+34,Manon Maréchal,Sainte Jacquelinedan,2021-07-01
+35,Philippe Allard,Sainte Sylvienec,2025-01-29
+36,Louise Le Roux Le Grenier,Sainte Victor,2022-05-15
+37,Thibaut Dubois-Brun,Descamps,2023-01-18
+38,Théodore Royer,Dupuis,2022-09-11
+39,Valérie du Noël,Saint Lucasnec,2024-04-09
+40,Lucie Munoz-Ferreira,CamusBourg,2021-05-29
+41,Juliette Imbert-Pereira,Guérin,2021-05-05
+42,Marcelle de Hardy,Lefèvredan,2022-05-04
+43,Marthe Bernier-Bertrand,Barthelemy-la-Forêt,2023-10-28
+44,Antoinette-Maggie Lévêque,Sainte SuzanneVille,2024-01-11
+45,Zacharie Hervé,Leroy-sur-Renault,2024-03-14
+46,Adrien Pasquier de Masson,Regnier,2024-08-14
+47,Tristan Wagner-Blanchet,Texier,2024-01-19
+48,Pauline Barthelemy,Bailly-sur-Merle,2024-07-13
+49,Gabriel-Grégoire Gomes,Pruvost,2024-03-21
+50,Victor Le Marion,Bigot,2022-10-30
+51,Augustin du Lemoine,Philippe,2020-11-16
+52,Lorraine Germain,Mathieu-sur-Morin,2020-12-13
+53,Benjamin Olivier,Martydan,2022-03-02
+54,Valentine Barre,MassonBourg,2024-07-09
+55,Augustin Leleu,Roche,2022-06-04
+56,Édouard Lévy,Saint Stéphanie,2025-08-10
+57,Pénélope du Deschamps,Olivier,2025-02-13
+58,Joseph Adam,Schmitt,2025-08-24
+59,François Caron,Gimeneznec,2021-01-08
+60,Bernadette Fabre,Garnier,2021-10-19
+61,Marine-Aurélie Dias,Lopez,2022-12-12
+62,Christophe Robin,Schmittdan,2024-12-14
+63,William Clerc,Pinto-la-Forêt,2020-11-04
+64,Marthe Garnier,Marion,2021-02-24
+65,Nicolas Marchal,Wagner,2024-11-13
+66,Laure Lévêque,Sainte Nathalie,2022-08-01
+67,Antoine-Xavier Couturier,Saint AiméeBourg,2025-03-01
+68,Rémy Humbert,PerretBourg,2025-04-24
+69,Bernard-Roger Royer,Maillard,2025-08-07
+70,Alex Robert,Sainte JacquesBourg,2021-03-17
+71,Emmanuelle Marchand,Seguin,2025-02-19
+72,Théophile-Joseph Gaillard,Blin-les-Bains,2022-02-04
+73,Jeanne Legros,Saint AlfredBourg,2022-12-12
+74,Susanne Le Bertrand,Sainte Rémy-les-Bains,2022-09-08
+75,Laure Blanchard-Besson,Sainte RogerBourg,2021-08-04
+76,Anastasie Grégoire,Goncalves,2025-01-19
+77,Auguste Lenoir,Pelletiernec,2023-11-07
+78,Zoé Bouvet,Brun-sur-Alexandre,2024-02-13
+79,Alex Picard-Antoine,Bodinboeuf,2021-11-14
+80,Sylvie Weiss-Boucher,Alexandre,2021-10-26
+81,Thibault Lesage,Lombard,2020-09-28
+82,Denise Peltier,Gauthier,2020-10-10
+83,Hugues François de la Leclerc,Perrier,2025-05-11
+84,Audrey Didier,Roche-sur-Fleury,2023-08-18
+85,Anaïs de Poulain,Guyon-la-Forêt,2021-12-09
+86,Thomas Royer-Perrot,Legrand-sur-Alves,2025-02-17
+87,Clémence-Laurence Louis,Saint Valentine,2021-03-13
+88,Anaïs Chevallier,Bouvet,2021-01-01
+89,Madeleine Foucher,Sainte Alice-la-Forêt,2022-07-04
+90,Henriette Olivier,Bouvet,2021-09-16
+91,Louis-Roger Diaz,Pichon-sur-Mer,2021-06-26
+92,Jacqueline Faivre,Renard-sur-Jourdan,2021-04-24
+93,Martin Potier,Gautier,2021-10-13
+94,Alain Petitjean,Poirierdan,2021-04-10
+95,Eugène Carpentier-Raymond,Techer,2021-08-01
+96,Marc Mercier,Jacquesnec,2022-12-13
+97,Hortense Allard,Wagner,2022-07-03
+98,Alex Le Lejeune,LedouxBourg,2023-04-06
+99,Emmanuel Courtois,Regnier,2021-11-24
+100,Paul Bertin-Lenoir,Louis,2020-11-29
+101,Michel Brunel,Saint Jérôme,2022-02-05
+102,Valentine Le Salmon,Leconte,2020-11-15
+103,Marthe-Margaux Fournier,Neveu-les-Bains,2022-08-22
+104,Émile de Gilles,Sainte MargotVille,2021-01-18
+105,Andrée Laurent,Weber,2024-09-07
+106,Émile Evrard de la Rodrigues,De Oliveira,2021-12-30
+107,Honoré Coulon,Vallée,2021-05-21
+108,Roland Jourdan,Nguyen-les-Bains,2021-01-24
+109,Nicole Mary,Sainte Alix,2024-03-09
+110,Sylvie Da Costa-Gillet,Sainte Yvesdan,2022-01-24
+111,Victor Samson-Diaz,Salmonnec,2021-09-13
+112,Stéphane Julien,Benard-les-Bains,2021-04-05
+113,Michelle Maillet de la Gérard,Bodin,2021-01-12
+114,Christelle Jean de la Lambert,Fernandez,2020-10-23
+115,Gérard Becker,Vaillant,2022-08-25
+116,Michèle Brunel,CarlierBourg,2023-09-29
+117,Édouard Fabre de Leclerc,Sanchez,2024-09-07
+118,Suzanne Aubry,Saint AdrienVille,2024-12-30
+119,Théophile Le De Oliveira,Seguin,2021-08-11
+120,Pierre Joubert,Lacroix-sur-Mer,2022-02-18
+121,Zacharie-Denis Bonneau,Maury,2024-10-20
+122,Sabine Roger de Torres,Guillot,2021-02-04
+123,Arnaude de Alves,Boutin-les-Bains,2021-07-25
+124,Philippe Munoz,Bodin,2020-10-17
+125,Margot Samson de la Sanchez,Teixeira-sur-Mer,2023-01-20
+126,Christophe Delahaye,ToussaintBourg,2025-02-14
+127,Caroline Meyer,GiraudVille,2023-12-27
+128,Thierry Rossi,Fabre,2021-03-07
+129,Océane Leclercq,David-sur-Roussel,2023-05-12
+130,Lucie-Josette Blondel,Parent-sur-Mer,2021-03-02
+131,Aimé Lemoine,Maillet,2024-01-25
+132,André Robert,Chrétien-sur-Andre,2023-12-29
+133,Stéphanie Paul,Nicolas,2021-11-17
+134,Laurent Pierre,De Sousa,2023-06-06
+135,Édouard Duval,JulienVille,2023-06-28
+136,Claudine Perrin de la Lecoq,Rolland,2020-12-10
+137,Thérèse-Christine François,Besson-sur-Lebreton,2024-02-08
+138,Juliette-Caroline Durand,Lacombe-sur-Gros,2023-03-09
+139,Gilbert Teixeira,Sainte Juliette,2021-06-09
+140,Josette Laine,Françoisnec,2025-02-19
+141,Claude Coulon,Saint Bernard,2022-11-12
+142,Valentine Hamel de la Jacques,Carpentierdan,2022-02-12
+143,Benjamin-Émile Roy,MartyBourg,2024-02-19
+144,Thérèse Delattre-Tanguy,Hamon,2022-08-04
+145,Gilles Clerc-Gros,Benard,2020-10-12
+146,Camille Marie,Duhamel-sur-Bruneau,2020-10-30
+147,Édith-Adèle Delattre,Mary,2021-05-15
+148,Raymond de la Legrand,Hernandez-sur-Normand,2025-01-04
+149,Vincent du Diaz,GuillotBourg,2025-04-19
+150,Honoré Mallet de Le Roux,Cordier-les-Bains,2022-03-29
+151,Susan Le Pages,Robert,2021-05-20
+152,René Bourdon,Petit,2022-10-08
+153,Bernard Leroux de la Antoine,Meunier-sur-Blin,2025-06-13
+154,Claude Benard,Saint Josette,2023-12-01
+155,Zoé Le Le Gall,Gauthier-les-Bains,2024-08-18
+156,Catherine Perez,Sainte Gilles,2023-06-13
+157,Noël Andre,Paris,2024-05-19
+158,Zacharie Delaunay,BlanchardBourg,2024-02-05
+159,Chantal Bonneau,Saint Adèledan,2022-11-13
+160,Christelle du Faure,Maillet,2023-05-09
+161,Thibaut Boyer,Dupuis-sur-Vaillant,2025-03-22
+162,Alexandre Didier de Lejeune,Weiss-sur-Martin,2021-09-27
+163,Édith Lopes,Sainte Roger-la-Forêt,2021-08-18
+164,Catherine Faure de la Benoit,Sainte Juliettedan,2024-09-30
+165,Gilbert Bodin,Lebon-sur-Mer,2024-01-17
+166,Vincent Blot,Gay,2025-04-17
+167,Gabriel Vincent-Hamon,BuissonVille,2024-02-16
+168,Augustin Hamel Le Leclerc,Marchal,2022-05-19
+169,Guillaume Germain,Saint VincentVille,2022-02-15
+170,Alphonse Duhamel,Raymond-sur-Bouvier,2025-09-16
+171,Antoinette Andre,Verdier-sur-Langlois,2024-10-05
+172,Rémy-Franck Lucas,Girard,2025-05-13
+173,Marthe Bertin,Bonnin-sur-Lecoq,2025-02-16
+174,Vincent Carlier-Berger,Roche-sur-Mer,2024-07-27
+175,Thierry Goncalves,Sainte MathildeBourg,2023-08-26
+176,Pénélope Payet,Barthelemy,2021-03-12
+177,Tristan Munoz,Dupont,2023-10-24
+178,Colette Joubert,PayetVille,2021-12-04
+179,Agnès Foucher,Saint Stéphanieboeuf,2021-11-23
+180,Olivier de la Chevallier,Meyer-sur-Lopes,2025-05-17
+181,Tristan Le Arnaud,Diallo-sur-Garcia,2021-05-03
+182,Élodie Le Ferreira,Martinez-sur-Maillot,2024-11-08
+183,Thibaut Gaillard,Gauthier,2021-12-19
+184,Anne Barbier,Riou,2021-07-02
+185,Anne Ledoux,Saint Camilledan,2022-09-25
+186,Valentine Boyer,Verdier-sur-Bouvier,2023-08-08
+187,Astrid Dupuis,Dumontdan,2024-04-26
+188,Auguste Laine,Delahaye,2025-06-27
+189,Bertrand-Michel Chauveau,Cordier,2022-10-17
+190,Luc-Arthur Pottier,ChauvinVille,2022-08-12
+191,Éric Paris,Thibault,2020-11-12
+192,Matthieu Costa-Pierre,LesageBourg,2023-03-02
+193,Bernadette Simon,Dufour,2023-02-10
+194,Alphonse Delattre,Barbier-la-Forêt,2024-01-05
+195,Théophile Charpentier,Lesage-la-Forêt,2024-10-14
+196,Roger Diallo du Lebrun,Sainte Théodore-sur-Mer,2021-04-10
+197,Louise-Jeanne Guillaume,Sainte Astrid,2023-11-01
+198,Thibaut Delmas,MaryBourg,2023-12-03
+199,Auguste Lambert-Allard,Roy,2022-08-11
+200,Chantal-Julie Lamy,Ramos,2021-01-16
