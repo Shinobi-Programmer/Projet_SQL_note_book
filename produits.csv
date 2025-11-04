@@ -1,0 +1,31 @@
+id_produit,nom,categorie,prix_unitaire
+1,Smartphone,Électronique,513.34
+2,Ordinateur portable,Électronique,24.88
+3,Casque audio,Électronique,223.65
+4,Écran 24 pouces,Électronique,182.45
+5,Tablette,Électronique,590.49
+6,Souris sans fil,Électronique,542.98
+7,Clavier mécanique,Électronique,714.28
+8,Aspirateur,Maison,74.12
+9,Machine à café,Maison,340.43
+10,Mixeur,Maison,28.69
+11,Lampe de bureau,Maison,178.82
+12,Chauffage électrique,Maison,406.76
+13,Ventilateur,Maison,26.1
+14,Chaussures de course,Sport,163.08
+15,Tapis de yoga,Sport,521.66
+16,Vélo d'appartement,Sport,438.23
+17,Gants de boxe,Sport,180.25
+18,Haltères,Sport,473.47
+19,T-shirt,Mode,648.5
+20,Jeans,Mode,10.17
+21,Veste,Mode,645.63
+22,Robe,Mode,560.02
+23,Montre,Mode,275.5
+24,Lunettes de soleil,Mode,128.61
+25,Pâtes,Alimentaire,765.98
+26,Café,Alimentaire,272.59
+27,Chocolat,Alimentaire,78.73
+28,Biscuit,Alimentaire,81.89
+29,Jus de fruits,Alimentaire,678.76
+30,Eau minérale,Alimentaire,484.96
